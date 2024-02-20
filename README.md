@@ -1,5 +1,5 @@
 # Prediction of Product Sales
-##Business problem:
+## Business problem:
 The business challenge involves thorough data cleaning and exploration using Pandas, alongside the creation of predictive models like linear regression and Random Forest, to achieve precise sales forecasting. This initiative is designed to empower a retailer with a deep understanding of the factors influencing food item sales at various stores, providing actionable insights, and delivering recommendations for the most effective implementation of predictive models to optimize sales strategies.
 # Results
 
